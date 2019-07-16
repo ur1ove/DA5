@@ -111,3 +111,14 @@ package ‘devtools’ successfully unpacked and MD5 sums checked
 The downloaded binary packages are in
 	C:\Users\KDATA31\AppData\Local\Temp\RtmpobOeLd\downloaded_packages
 ~~~
+~~~
+> install.packages("Rcpp")
+trying URL 'https://cran.seoul.go.kr/bin/windows/contrib/3.6/Rcpp_1.0.1.zip'
+Content type 'application/zip' length 4494481 bytes (4.3 MB)
+downloaded 4.3 MB
+
+package ‘Rcpp’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\KDATA31\AppData\Local\Temp\Rtmpi8l7qw\downloaded_packages
+~~~
