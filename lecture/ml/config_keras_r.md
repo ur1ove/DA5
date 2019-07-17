@@ -1,3 +1,4 @@
+- [R interface to Keras](https://keras.rstudio.com/)  
 - GPU 메모리가 적은 경우(GTX 1050, 2GB) 오류해결  
 ~~~
 library(keras)
