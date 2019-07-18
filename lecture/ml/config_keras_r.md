@@ -26,4 +26,5 @@ config.gpu_options.allow_growth = True
 session = tf.Session(config=config)
 set_session(session)
 ~~~
-참고 : [스택오버플로우(2016.12.13), 'Tensorflow crashes with CUBLAS_STATUS_ALLOC_FAILED', https://stackoverflow.com/questions/41117740/tensorflow-crashes-with-cublas-status-alloc-failed, 검색일:2019.7.17](https://stackoverflow.com/questions/41117740/tensorflow-crashes-with-cublas-status-alloc-failed)
+참고 : [1] [스택오버플로우(2016.12.13), 'Tensorflow crashes with CUBLAS_STATUS_ALLOC_FAILED', https://stackoverflow.com/questions/41117740/tensorflow-crashes-with-cublas-status-alloc-failed, 검색일:2019.7.17](https://stackoverflow.com/questions/41117740/tensorflow-crashes-with-cublas-status-alloc-failed)  
+[2] [깃허브(2016.3.10), 'GPU sync failed', https://github.com/tensorflow/tensorflow/issues/1450, 검색일:2019.7.17](https://github.com/tensorflow/tensorflow/issues/1450)  
