@@ -1,3 +1,5 @@
+[1] 솔라리스의 인공지능 연구실(2017.5.30), '1-2. 텐서플로우(TensorFlow) GPU버전(Tensorflow-Gpu) 설치하기', [http://solarisailab.com/archives/1581](http://solarisailab.com/archives/1581),검색일: 2019.7.17  
+
 ~~~
 (kdata_ml) C:\Users\KDATA31>conda install tensorflow-gpu
 WARNING: The conda.compat module is deprecated and will be removed in a future release.
