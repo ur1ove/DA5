@@ -6,3 +6,10 @@
 - [한국국제교류재단](http://www.kf.or.kr/?menuno=3301)
 - [오일장신문닷컴](https://www.jejuall.com/CMain)  
 - []()
+  
+### 도시계획
+- [서울대 협동과정 도시설계학전공](https://eng.snu.ac.kr/node/49?language=ko) : TEPS 298  
+- [연세대 도시공학과](http://urban.yonsei.ac.kr/urban/program/graduate_admissions.do)  
+- [KAIST](https://civil.kaist.ac.kr/korean/index.html)  
+-
+- [국토교통과학기술진흥원](https://www.kaia.re.kr/)  
