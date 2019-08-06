@@ -17,7 +17,6 @@ Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
 ~~~
-~~~
 > install.packages('rJava')
 ~~~
 trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/rJava_0.9-11.zip'
